@@ -11,7 +11,7 @@ Exodus Logistics is a forward-thinking shipping company dedicated to delivering 
 
 # 3D Isometric Images: A central aesthetic feature of the site. While these images were initially sourced from freepik.com, their transformation using Photoshop became pivotal, introducing depth, vibrancy, and a personalized touch that resonates with the Exodus Logistics brand.
 
-##P roject Highlights
+## Project Highlights
 #Creative Exploration: Crafting a single-page site with multiple sections was both challenging and invigorating. Every section had to distinctly serve its purpose while ensuring cohesion with the site's overarching design and flow.
 
 # Image Customization: The incorporation of 3D isometric images, while demanding, was elevated through Photoshop. Tailoring each image ensured not only a visual appeal but also an alignment with the brand and design philosophy I envisioned.

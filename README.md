@@ -1,8 +1,8 @@
-###Exodus Logistics Single Page Site
-##Introduction
+# Exodus Logistics Single Page Site
+## Introduction
 Exodus Logistics is a forward-thinking shipping company dedicated to delivering top-notch logistics solutions. Embarking on this project allowed me to craft a digital platform for Exodus Logistics as a single-page site. It was an enriching experience, as I seamlessly combined modern web technologies, intricate designs, and uniquely customized 3D isometric images to guide the user through an immersive journey across multiple sections.
 
-##Technologies Used
+## Technologies Used
 #HTML: The backbone of the site. Every content bit and structure, scattered over various sections, was meticulously designed using pure HTML, ensuring accessibility, SEO optimization, and ease of maintenance.
 
 #CSS: The canvas for styling. With CSS, I imbued the webpage with a contemporary, sleek look, ensuring alignment with Exodus Logistics' brand ethos. This tool was paramount in guaranteeing a fluid and responsive design, presenting a seamless experience irrespective of the device.
